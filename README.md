@@ -273,11 +273,13 @@ This solution provides:
 
 ## 📬 Contact Information
 
-Dr. Jody-Ann S. Jones
+**Dr. Jody-Ann S. Jones**
 Founder and CEO, The Data Sensei
-Email: jody@thedatasensei.com
-Website: [The Data Sensei](https://www.thedatasensei.com)
-LinkedIn: [@thedatasensei](https://www.linkedin.com/company/thedatasensei/)
+
+📧 Email: jody@thedatasensei.com
+🌐 Website: [The Data Sensei](https://www.thedatasensei.com)
+💼 LinkedIn: [@thedatasensei](https://www.linkedin.com/company/thedatasensei/)
+🐙 GitHub: [@dasdatasensei](https://github.com/dasdatasensei)
 
 ## 💰 ROI Calculator
 
@@ -292,22 +294,8 @@ Estimate your potential savings with ChronoSense AI:
 
 \*Based on a mid-sized retail operation with $50M annual revenue. Actual results may vary.
 
-## 🤝 Success Stories
-
-### Global Retail Chain
-
-- Reduced inventory costs by 23%
-- Improved forecast accuracy by 35%
-- ROI achieved in 4 months
-
-### E-commerce Platform
-
-- Increased sales by 15%
-- Reduced stockouts by 67%
-- Customer satisfaction up by 28%
-
 ---
 
 _Built with ❤️ by The Data Sensei_
 
-![ChronoSense AI Logo](assets/chronosense_logo.png)
+# 🔮
