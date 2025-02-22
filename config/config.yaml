@@ -1,0 +1,52 @@
+# Data settings
+data:
+  raw_path: "../data/raw/train.csv"
+  target_column: "Sales"
+  date_column: "Order Date"
+  train_size: 0.7
+  val_size: 0.15
+
+# Feature engineering settings
+features:
+  numeric_features:
+    - "Sales"
+    - "Quantity"
+    - "Discount"
+    - "Profit"
+  categorical_features:
+    - "Category"
+    - "Sub-Category"
+    - "Segment"
+    - "Ship Mode"
+    - "Region"
+
+# Model settings
+model:
+  type: "sarimax" # or "arima"
+  seasonal: true
+  seasonal_period: 12
+  hyperparameters:
+    order: [1, 1, 1]
+    seasonal_order: [1, 1, 1, 12]
+
+# Training settings
+training:
+  random_state: 42
+  cross_validation:
+    n_splits: 5
+    train_size: 0.7
+
+# Evaluation settings
+evaluation:
+  metrics:
+    - "mse"
+    - "rmse"
+    - "mae"
+    - "r2"
+    - "mape"
+  confidence_interval: 0.95
+
+# Logging settings
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
