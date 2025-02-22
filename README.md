@@ -5,7 +5,9 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Testing: pytest](https://img.shields.io/badge/testing-pytest-green.svg)](https://docs.pytest.org/en/7.1.x/)
 
-## 🎯 Project Overview
+![ChronoSense AI Dashboard](assets/screenshots/chronosenseAI_screenshot.jpeg)
+
+## �� Project Overview
 
 ChronoSense AI is a sophisticated end-to-end time series analysis platform that achieves highly accurate sales forecasting with a Mean Absolute Percentage Error (MAPE) of 4.64%. To put this in context:
 
